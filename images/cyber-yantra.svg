@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" fill="none">
+  <defs><filter id="rough"><feTurbulence type="fractalNoise" baseFrequency=".03" numOctaves="2" result="n"/><feDisplacementMap in="SourceGraphic" in2="n" scale="2"/></filter></defs>
+  <g stroke="#8e2cff" stroke-width="6" filter="url(#rough)">
+    <circle cx="300" cy="300" r="250"/><circle cx="300" cy="300" r="205"/><circle cx="300" cy="300" r="155"/><circle cx="300" cy="300" r="95"/>
+    <path d="M300 42 421 510 86 220 514 220 179 510Z"/><path d="m300 98 78 248-210-155h264L222 346Z"/>
+    <path d="M50 300h500M300 50v500M123 123l354 354M477 123 123 477"/>
+  </g>
+  <g fill="#c6ff00" stroke="#070707" stroke-width="4"><circle cx="300" cy="300" r="20"/><circle cx="300" cy="50" r="9"/><circle cx="550" cy="300" r="9"/><circle cx="300" cy="550" r="9"/><circle cx="50" cy="300" r="9"/></g>
+  <g fill="#070707" font-family="monospace" font-size="15" font-weight="700"><text x="272" y="25">TATAR/01</text><text x="472" y="287">GREEN</text><text x="272" y="585">SIGNAL</text><text x="70" y="287">ENERGY</text></g>
+</svg>
